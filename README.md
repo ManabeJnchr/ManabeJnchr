@@ -1,44 +1,13 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e6769### ### 🚀 **Projetos Desenvolvidos**
-- 🍽️ **Sistema de Gestão para Restaurantes** - Gestão Gourmet
-- 🎓 **Plataforma Acadêmica Universitária** - Mentor Acadêmico  
-- 🐾 **Sistema de Otimização Nutricional Pet** - Pet Balance
-- ⚖️ **Sistema de Avaliações Educacionais** - Sistema Avaliativorojetos Desenvolvidos**
-- 🍽️ **Sistema de Gestão para Restaurantes** - Gestão Gourmet (TypeScript/Express.js)
-- 📚 **Plataforma Acadêmica Universitária** - Mentor Acadêmico (Laravel/PHP)  
-- 🏥 **Sistema de Avaliação Hospitalar** - Sistema Avaliativo (Java/JSP)
-- 🐾 **Aplicativo de Cuidados Pet** - Pet Balance (Laravel/PHP)92e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:seu-email@exemplo.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://seu-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=internetexplorer&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ManabeJnchr.ManabeJnchr&"  />
 </div>
 
----
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋+Eu+sou+Lucas!;Desenvolvedor+Full+Stack;Sempre+aprendendo+🚀;" />
-</h1>
 
 <h3 align="center">🚀 Apaixonado por tecnologia e sempre em busca de novos desafios!</h3>
 
-<br/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 ## 🙋‍♂️ **Sobre mim**
 
@@ -63,6 +32,7 @@ $lucas = [
 <div align="center">
 
 ### 💻 **Linguagens**
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -73,6 +43,7 @@ $lucas = [
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 
 ### ⚡ **Frameworks & Libraries**
+
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/JSP-FF6600?style=for-the-badge&logo=java&logoColor=white" />
@@ -83,12 +54,14 @@ $lucas = [
 <img src="https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 
 ### 🗄️ **Bancos de Dados**
+
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebird-FF6C37?style=for-the-badge&logo=database&logoColor=white" />
 
 ### 🛠️ **Ferramentas & Ambiente**
+
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20ide&logoColor=white" />
 <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black" />
@@ -114,38 +87,46 @@ $lucas = [
 
 ### 🚀 **Principais Projetos**
 
-| Projeto | Descrição | Stack | Status | Deploy |
-|---------|-----------|-------|--------|--------|
-| **[MentorAcademico](https://github.com/ManabeJnchr/MentorAcademico)** ⚠️ *Repositório Privado* | Sistema de gestão acadêmica para orientação e mentoria universitária com diferentes níveis de usuário | Laravel, PHP, PostgreSQL, Bootstrap, Alpine.js | 🚧 Em desenvolvimento | [Sistema Acadêmico](https://mentor-academico.com) |
-| **[Gestao_Gourmet](https://github.com/ManabeJnchr/Gestao_Gourmet)** | Sistema completo de gerenciamento para restaurantes com controle de pedidos, cardápios e pagamentos | TypeScript, Express.js, PostgreSQL, Bootstrap | ✅ Finalizado | [Demo Restaurant](https://gestao-gourmet.com) |
-| **[Sistema_Avaliativo](https://github.com/ManabeJnchr/Sistema_Avaliativo)** | Sistema de avaliação por setores para hospitais e instituições de saúde com interface web responsiva | Java, JSP, MySQL, Bootstrap, Apache Tomcat | ✅ Finalizado | [Sistema Hospitalar](https://sistema-avaliativo.com) |
-| **[Pet_Balance](https://github.com/ManabeJnchr/Pet_Balance)** | Sistema de otimização nutricional para pets com algoritmos de programação linear | Alpine.js, Node.js, Express.js, JavaScript, Bootstrap | ✅ Finalizado | [Pet Nutrition](https://pet-balance.com) |
+| Projeto                                                                                        | Descrição                                                                                             | Stack                                                 | Status                | Deploy                                               |
+| ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | --------------------- | ---------------------------------------------------- |
+| **[MentorAcademico](https://github.com/ManabeJnchr/MentorAcademico)** ⚠️ _Repositório Privado_ | Sistema de gestão acadêmica para orientação e mentoria universitária com diferentes níveis de usuário | Laravel, PHP, PostgreSQL, Bootstrap, Alpine.js        | 🚧 Em desenvolvimento | [Sistema Acadêmico](https://mentor-academico.com)    |
+| **[Gestao_Gourmet](https://github.com/ManabeJnchr/Gestao_Gourmet)**                            | Sistema completo de gerenciamento para restaurantes com controle de pedidos, cardápios e pagamentos   | TypeScript, Express.js, PostgreSQL, Bootstrap         | ✅ Finalizado         | [Demo Restaurant](https://gestao-gourmet.com)        |
+| **[Sistema_Avaliativo](https://github.com/ManabeJnchr/Sistema_Avaliativo)**                    | Sistema de avaliação por setores para hospitais e instituições de saúde com interface web responsiva  | Java, JSP, MySQL, Bootstrap, Apache Tomcat            | ✅ Finalizado         | [Sistema Hospitalar](https://sistema-avaliativo.com) |
+| **[Pet_Balance](https://github.com/ManabeJnchr/Pet_Balance)**                                  | Sistema de otimização nutricional para pets com algoritmos de programação linear                      | Alpine.js, Node.js, Express.js, JavaScript, Bootstrap | ✅ Finalizado         | [Pet Nutrition](https://pet-balance.com)             |
 
 ### 📋 **Detalhes dos Projetos**
 
-#### 📚 **Mentor Acadêmico** *(Repositório Privado - Em Desenvolvimento)*
+#### 📚 **Mentor Acadêmico** _(Repositório Privado - Em Desenvolvimento)_
+
 Sistema web para gestão acadêmica universitária com foco em orientação e mentoria.
+
 - **Funcionalidades**: Gestão de alunos, professores, cursos e períodos letivos
-- **Autenticação**: Sistema personalizado (RA para alunos, CPF para professores)  
+- **Autenticação**: Sistema personalizado (RA para alunos, CPF para professores)
 - **Níveis de Acesso**: Aluno, Professor, Diretor e Administrador
 - **Interface**: Responsiva com Bootstrap 5 e Alpine.js
 
 #### 🍽️ **Gestão Gourmet**
+
 Sistema completo de gerenciamento para restaurantes desenvolvido com TypeScript.
+
 - **Módulos**: Pedidos, Cardápio, Mesas, Funcionários, Pagamentos e Relatórios
 - **Características**: Interface moderna, controle de estoque, sistema de caixa
 - **Relatórios**: Gráficos interativos com ApexCharts, análise de vendas
 - **Segurança**: Autenticação por cargos, controle de permissões
 
-#### ⚖️ **Sistema Avaliativo** *(Finalizado)*
+#### ⚖️ **Sistema Avaliativo** _(Finalizado)_
+
 Sistema de avaliação por setores para hospitais e instituições de saúde.
+
 - **Funcionalidades**: Gestão de setores, questões e avaliações com notas de 0-5
 - **Interface**: Sistema administrativo com login e relatórios detalhados
 - **Arquitetura**: Padrão MVC com DAO Pattern para acesso a dados
 - **Público-alvo**: Hospitais e instituições de saúde
 
 #### 🐾 **Pet Balance**
+
 Sistema de otimização nutricional para animais de estimação com algoritmos de programação linear.
+
 - **Tecnologias**: Alpine.js, Node.js, Express.js, ApexCharts, Bootstrap
 - **Funcionalidades**: Otimização linear, interface reativa, gráficos interativos
 - **Algoritmo**: JavaScript-LP-Solver para encontrar combinações de ração com menor custo
@@ -175,20 +156,14 @@ Sistema de otimização nutricional para animais de estimação com algoritmos d
 
 ## 🏆 **Conquistas**
 
-<div align="center">
-
-<a href="https://github.com/ManabeJnchr">
-  <img src="https://github-profile-trophy.vercel.app/?username=ManabeJnchr&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
-</a>
-
-</div>
-
 ### 🥈 **Competições**
+
 - � **2º Lugar - Maratona de Programação** - FATEC Ourinhos (2023)
 
 ### � **Projetos Desenvolvidos**
+
 - 🍽️ **Sistema de Gestão para Restaurantes** - Gestão Gourmet
-- � **Plataforma Acadêmica Universitária** - Mentor Acadêmico  
+- � **Plataforma Acadêmica Universitária** - Mentor Acadêmico
 - � **Aplicativo de Cuidados Pet** - Pet Balance
 - ⚖️ **Sistema de Avaliações Educacionais** - Sistema Avaliativo
 
@@ -211,20 +186,12 @@ Sistema de otimização nutricional para animais de estimação com algoritmos d
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank">
+<a href="https://www.linkedin.com/in/lucas-samuel-cardoso-galiano-2830a5231/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:seu-email@exemplo.com">
+<a href="mailto:lucasscg.card@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://seu-portfolio.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-</a>
-
-<a href="https://wa.me/5511999999999" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 </div>
