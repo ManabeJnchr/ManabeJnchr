@@ -7,21 +7,19 @@
 
 <h3 align="center">🚀 Apaixonado por tecnologia e sempre em busca de novos desafios!</h3>
 
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-
 ## 🙋‍♂️ **Sobre mim**
 
 ```php
 <?php
-$lucas = [
-    'formacao' => 'Análise e Desenvolvimento de Sistemas',
-    'interesse' => ['Desenvolvimento Web', 'Sistemas de Gestão', 'APIs RESTful'],
-    'focoPrincipal' => ['HTML', 'CSS', 'PHP', 'Laravel', 'Java', 'TypeScript'],
-    'estudandoAtualmente' => ['Bootstrap', 'PHP', 'Laravel Framework', 'Express.js'],
-    'especialidades' => ['Sistemas Acadêmicos', 'Gestão Empresarial', 'Sistemas Hospitalares'],
-    'hobbies' => ['🎮 Jogar', '💻 Programar', '🎵 Ouvir música', '⚽ Assistir futebol'],
-    'funFact' => 'Às vezes me perco tanto programando que esqueço do tempo! ⏰'
-];
+  $lucas = [
+      'formacao' => 'Análise e Desenvolvimento de Sistemas',
+      'interesse' => ['Desenvolvimento Web', 'Sistemas de Gestão', 'APIs RESTful'],
+      'focoPrincipal' => ['HTML', 'CSS', 'PHP', 'Laravel', 'Java', 'TypeScript'],
+      'estudandoAtualmente' => ['Bootstrap', 'PHP', 'Laravel Framework', 'Express.js'],
+      'especialidades' => ['Sistemas Acadêmicos', 'Gestão Empresarial', 'Sistemas Hospitalares'],
+      'hobbies' => ['🎮 Jogar', '💻 Programar', '🎵 Ouvir música', '⚽ Assistir futebol'],
+      'funFact' => 'Às vezes me perco tanto programando que esqueço do tempo! ⏰'
+  ];
 ?>
 ```
 
@@ -87,12 +85,12 @@ $lucas = [
 
 ### 🚀 **Principais Projetos**
 
-| Projeto                                                                                        | Descrição                                                                                             | Stack                                                 | Status                | Deploy                                               |
-| ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | --------------------- | ---------------------------------------------------- |
-| **[MentorAcademico](https://github.com/ManabeJnchr/MentorAcademico)** ⚠️ _Repositório Privado_ | Sistema de gestão acadêmica para orientação e mentoria universitária com diferentes níveis de usuário | Laravel, PHP, PostgreSQL, Bootstrap, Alpine.js        | 🚧 Em desenvolvimento | [Sistema Acadêmico](https://mentor-academico.com)    |
-| **[Gestao_Gourmet](https://github.com/ManabeJnchr/Gestao_Gourmet)**                            | Sistema completo de gerenciamento para restaurantes com controle de pedidos, cardápios e pagamentos   | TypeScript, Express.js, PostgreSQL, Bootstrap         | ✅ Finalizado         | [Demo Restaurant](https://gestao-gourmet.com)        |
-| **[Sistema_Avaliativo](https://github.com/ManabeJnchr/Sistema_Avaliativo)**                    | Sistema de avaliação por setores para hospitais e instituições de saúde com interface web responsiva  | Java, JSP, MySQL, Bootstrap, Apache Tomcat            | ✅ Finalizado         | [Sistema Hospitalar](https://sistema-avaliativo.com) |
-| **[Pet_Balance](https://github.com/ManabeJnchr/Pet_Balance)**                                  | Sistema de otimização nutricional para pets com algoritmos de programação linear                      | Alpine.js, Node.js, Express.js, JavaScript, Bootstrap | ✅ Finalizado         | [Pet Nutrition](https://pet-balance.com)             |
+| Projeto                                                                                        | Descrição                                                                                             | Stack                                                 | Status                |
+| ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | --------------------- |
+| **[MentorAcademico](https://github.com/ManabeJnchr/MentorAcademico)** ⚠️ _Repositório Privado_ | Sistema de gestão acadêmica para orientação e mentoria universitária com diferentes níveis de usuário | Laravel, PHP, PostgreSQL, Bootstrap, Alpine.js        | 🚧 Em desenvolvimento |
+| **[Gestao_Gourmet](https://github.com/ManabeJnchr/Gestao_Gourmet)**                            | Sistema completo de gerenciamento para restaurantes com controle de pedidos, cardápios e pagamentos   | TypeScript, Express.js, PostgreSQL, Bootstrap         | ✅ Finalizado         |
+| **[Sistema_Avaliativo](https://github.com/ManabeJnchr/Sistema_Avaliativo)**                    | Sistema de avaliação por setores para hospitais e instituições de saúde com interface web responsiva  | Java, JSP, MySQL, Bootstrap, Apache Tomcat            | ✅ Finalizado         |
+| **[Pet_Balance](https://github.com/ManabeJnchr/Pet_Balance)**                                  | Sistema de otimização nutricional para pets com algoritmos de programação linear                      | Alpine.js, Node.js, Express.js, JavaScript, Bootstrap | ✅ Finalizado         |
 
 ### 📋 **Detalhes dos Projetos**
 
@@ -163,9 +161,9 @@ Sistema de otimização nutricional para animais de estimação com algoritmos d
 ### � **Projetos Desenvolvidos**
 
 - 🍽️ **Sistema de Gestão para Restaurantes** - Gestão Gourmet
-- � **Plataforma Acadêmica Universitária** - Mentor Acadêmico
-- � **Aplicativo de Cuidados Pet** - Pet Balance
-- ⚖️ **Sistema de Avaliações Educacionais** - Sistema Avaliativo
+- � **Plataforma Acadêmica Universitária pra Orientação** - Mentor Acadêmico
+- � **Sistema de Otimização Nutricional para Animais** - Pet Balance
+- ⚖️ **Sistema de Avaliações de Setores Hospitalares** - Sistema Avaliativo
 
 <br/>
 
